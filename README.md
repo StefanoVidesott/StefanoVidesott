@@ -16,7 +16,7 @@ I'm a student of **Computer Science** at the **University of Trento** and curren
 - Microservices architecture-->
 
 ## 📫 How to reach me:
-- [Instagram]([https://www.linkedin.com/in/stefano-videsott](https://www.instagram.com/stefano.videsott/))
+- [Instagram](https://www.instagram.com/stefano.videsott/)
 - [Email](mailto:ste.videsott@gmail.com)
 
 <!--## 💡 Fun Fact:
