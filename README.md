@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Stefano Videsott
 
-🎓 Computer science student at the **University of Trento**
-💻 Former developer at **Airpim SRL**
-⚡ Passionate about **Software development, Technology, and Problem-solving**
+🎓 Computer science student at the **University of Trento** <br>
+💻 Former developer at **Airpim SRL**<br>
+⚡ Passionate about **Software development, Technology, Video games and Problem-solving**
 
 
 ---
@@ -51,8 +51,8 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanoVidesott&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
-# 🌐 Connect with Me
-
+### Contact Me
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/StefanoVidesott)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefano-videsott)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefano.videsott)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefano.videsott.work@gmail.com)
