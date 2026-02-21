@@ -37,8 +37,8 @@
 ### 📌 Highlighted Projects
 
 - 🏆 [**UniTN P2 Lab Configurator**](https://github.com/StefanoVidesott/unitn-p2-configuration) - An automation script (Bash/PowerShell) to instantly set up a complete Java & JavaFX development environment (OpenJDK, IntelliJ) for university labs. *Proudly included in the official course materials.*
-- 💻 **WannaWork** ([Frontend Repo](https://github.com/StefanoVidesott/WannaWork_Frontend) &bull; [Backend Repo](https://github.com/StefanoVidesott/WannaWork-Backend)) - A full-stack application developed for my Software Engineering course, built with Vue.js and Node.js. You can find more information on my [portfolio](https://www.stefanovidesott.com/en/project/wannawork).
-- 👨‍💻 [**Personal Portfolio**](https://github.com/StefanoVidesott/portfolio) - A custom-built, responsive portfolio website featuring a FastAPI backend, Jinja2 templating, and full Docker integration.
+- 💻 **WannaWork** ([Frontend Repo](https://github.com/StefanoVidesott/WannaWork_Frontend) &bull; [Backend Repo](https://github.com/StefanoVidesott/WannaWork_App)) - A full-stack application developed for my Software Engineering course, built with Vue.js and Node.js. You can find more information on my [portfolio](https://www.stefanovidesott.com/en/project/wannawork).
+- 👨‍💻 [**Personal Portfolio**](https://github.com/StefanoVidesott/portfolio-site) - A custom-built, responsive portfolio website featuring a FastAPI backend, Jinja2 templating, and full Docker integration.
 - 🎮 [**Air Force 1943**](https://weatherlight.itch.io/airforce-1943) - A 2D shoot 'em up indie game built in Unity.
 
 ### 📫 Let's Connect
