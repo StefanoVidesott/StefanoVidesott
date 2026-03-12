@@ -14,17 +14,17 @@
 - 🎓 I'm currently pursuing a Bachelor's Degree in **Computer Science** at the [University of Trento](https://www.unitn.it/en).
 - 💼 I previously worked as a Software Developer at **Airpim SRL**, gaining hands-on industry experience.
 - 🛠️ My main focus is on **Backend Development, System Architecture, and API Design**, but I enjoy exploring the entire stack.
-- 🚀 In my free time, I'd like to start developing indie games.
+- 🎵 In my free time, I like to play the tuba and sing in a choir.
 
 ### 💻 Core Technologies
 
 *Instead of listing every tool I've ever used, here is the stack I work with most frequently and feel confident about:*
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) -->
 
 **Backend & Data:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -38,7 +38,7 @@
 
 - 🏆 [**UniTN P2 Lab Configurator**](https://github.com/StefanoVidesott/unitn-p2-configuration) - An automation script (Bash/PowerShell) to instantly set up a complete Java & JavaFX development environment (OpenJDK, IntelliJ) for university labs. *Proudly included in the official course materials.*
 - 💻 **WannaWork** ([Frontend Repo](https://github.com/StefanoVidesott/WannaWork_Frontend) &bull; [Backend Repo](https://github.com/StefanoVidesott/WannaWork_App)) - A full-stack application developed for my Software Engineering course, built with Vue.js and Node.js. You can find more information on my [portfolio](https://www.stefanovidesott.com/en/project/wannawork).
-- 👨‍💻 [**Personal Portfolio**](https://github.com/StefanoVidesott/portfolio-site) - A custom-built, responsive portfolio website featuring a FastAPI backend, Jinja2 templating, and full Docker integration.
+<!-- - 👨‍💻 [**Personal Portfolio**](https://github.com/StefanoVidesott/portfolio-site) - A custom-built, responsive portfolio website featuring a FastAPI backend, Jinja2 templating, and full Docker integration. -->
 - 🎮 [**Air Force 1943**](https://weatherlight.itch.io/airforce-1943) - A 2D shoot 'em up indie game built in Unity.
 
 ### 📫 Let's Connect
